@@ -1,0 +1,10 @@
+Indicator,Value
+Model,"ARDL(2,2,2,3,3)"
+Dependent variable,LIDE = log(IDE)
+Institutional variable,D_FRAZER = variation of FRAZER
+AIC,24.831848819469013
+BIC,47.47758650385569
+Number of observations,26
+Long-run D_FRAZER coefficient,3.959250564300607
+Long-run D_FRAZER p-value,0.007575965757058212
+Interpretation,Effect of institutional improvement on FDI
